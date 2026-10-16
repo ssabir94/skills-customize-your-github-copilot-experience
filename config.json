@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-fastapi-endpoints",
+      "title": "Testing FastAPI Endpoints",
+      "description": "Write pytest tests with FastAPI TestClient to verify the books endpoint returns the right status and data.",
+      "path": "assignments/testing-fastapi-endpoints",
+      "dueDate": "2026-10-23"
     }
   ]
 }
