@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a book REST API with FastAPI, practicing HTTP methods, JSON data, and resource error handling.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-10-23",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "main.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
